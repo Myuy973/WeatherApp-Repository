@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="place_arr">
+        <item>北海道</item>
+        <item>東京</item>
+        <item>掛川</item>
+        <item>愛知</item>
+        <item>大阪</item>
+        <item>福岡</item>
+    </string-array>
+</resources>
